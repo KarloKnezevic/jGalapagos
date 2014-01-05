@@ -4,9 +4,9 @@ Projekt primjene informacijske tehnologije Ministarstva znanosti, obrazovanja i 
 ***
 ![jGalapagos logo](https://raw.github.com/KarloKnezevic/jGalapagos/master/res_gh/jGalapagos.PNG)
 Sustav za izradu rasporeda provjera znanja ostvaren je da ispuni specifiène zahtjeve provjera znanja na Fakultetu elektrotehnike i raèunarstva, ali moguæe ga je primijeniti i na drugim fakultetima. Automatizira raspodjelu provjera znanja na preddefiniranom skupu termina tako da budu ispunjena sljedeca ogranièenja:
-* niti jedan student istovremeno ne smije imati vi2e ispita, 
-* kapaciteti termina ne smiju biti prekoraLeni i 
-* provjere znanja moraju biti odroane u jednom od prihvatljivih termina. 
+* niti jedan student istovremeno ne smije imati više ispita, 
+* kapaciteti termina ne smiju biti prekoraèeni i 
+* provjere znanja moraju biti održane u jednom od prihvatljivih termina. 
 
 Nakon što su sva ogranièenja ispunjena, nastoji se poboljšati kvaliteta rasporeda tako da teži predmeti s više studenata budu što je moguæe više vremenski udaljeni. Takoðer, nastoji se napraviti što kvalitetniji raspored za redovne studente. Sustav je sposoban izraðivati rasporede samostalnih provjera znanja i rasporede ponovljenih provjera znanja. Ponovljene provjere ispita vremenski slijede nakon samostalnih provjera znanja. Izrada ponovljenih provjera ispita razlikuje se od izrade samostalnih jer se nastoji što je moguæe više vremenski odvojiti provjere znanja istih predmeta. Sustav za izradu rasporeda provjera znanja ostvaren je preko modula platforme jGalapagos - platforme za distribuirano izvršavanje algoritama evolucijskog raèunanja. Omoguæava jednostavno raspodjeljivanje evolucijskog raèunanja na više raèunala, gdje jedno raèunalo predstavlja voditelja, a ostala raèunala radnike. Na radnicima treba biti pokrenut jednostavan program za komunikaciju radnika s voditeljem. Nakon što se na voditelju uèita problem, definiraju se konfiguracije algoritama, parametri migracije i drugi potrebni podaci, a voditelj zapoèinje komunikaciju s radnicima. Šalju se svi potrebni podaci, a na svakom radniku inicijaliziraju se algoritmi. Za vrijeme rada na voditelju se mogu vidjeti trenutaèni statistièki podaci, najbolja rješenja i sl.
 
