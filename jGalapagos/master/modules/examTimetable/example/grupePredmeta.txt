@@ -1,0 +1,7 @@
+predmet1	1
+predmet2	1
+predmet2	2
+predmet3	2
+predmet4	3
+predmet5	3
+predmet6	3

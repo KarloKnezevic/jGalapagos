@@ -1,0 +1,2 @@
+predmet1	predmet2
+predmet4	predmet6
