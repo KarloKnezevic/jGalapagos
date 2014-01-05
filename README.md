@@ -3,6 +3,7 @@
 Projekt primjene informacijske tehnologije Ministarstva znanosti, obrazovanja i športa Republike Hrvatske; voditelj projekta: dr.sc. Marko Èupiæ
 ***
 ![jGalapagos logo](https://raw.github.com/KarloKnezevic/jGalapagos/master/res_gh/jGalapagos.PNG)
+
 Sustav za izradu rasporeda provjera znanja ostvaren je da ispuni specifiène zahtjeve provjera znanja na Fakultetu elektrotehnike i raèunarstva, ali moguæe ga je primijeniti i na drugim fakultetima. Automatizira raspodjelu provjera znanja na preddefiniranom skupu termina tako da budu ispunjena sljedeca ogranièenja:
 * niti jedan student istovremeno ne smije imati više ispita, 
 * kapaciteti termina ne smiju biti prekoraèeni i 
